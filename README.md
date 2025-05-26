@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hitesh — a Computer Science student at Bahra University (2026), passionate about backend development and problem-solving.<br><br>💻 Tech Stack:<br>- Core Java & Spring Boot<br>- HTML, CSS, JavaScript<br>- Python , SQL, Git<br><br>🚀 Projects:<br>- Bank & Community Management Systems (Java)<br>- Space Shooter Game (Python)<br><br>📫 Let's connect: https://www.linkedin.com/in/hitesh-kashyap04/ | hiteshkashyap094@gmail.com<br><br>🔧 Exploring new tech, building cool projects, and sharing my journey here!<br>
+👋 Hi, I'm Hitesh — a Computer Science student at Bahra University(2026), passionate about backend development and problem-solving.<br><br>💻 Tech Stack:<br>- Core Java & Spring Boot<br>- HTML, CSS, JavaScript<br>- Python , SQL, Git<br><br>🚀 Projects:<br>- Bank & Community Management Systems (Java)<br>- Space Shooter Game (Python)<br><br>📫 Let's connect: https://www.linkedin.com/in/hitesh-kashyap04/ | hiteshkashyap094@gmail.com<br><br>🔧 Exploring new tech, building cool projects, and sharing my journey here!<br>
 
 
 ## 🌐 Socials:
