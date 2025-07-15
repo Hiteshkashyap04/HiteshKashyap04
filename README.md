@@ -44,7 +44,7 @@
 | 🏦 **Bank Management System** | Desktop app to manage user accounts, transactions, and reports. | Core Java |
 | 🏘️ **Community Management System** | Organizes community data including residents, services, and admin panels. | Core Java |
 | 🚀 **Space Shooter Game** | Classic arcade-style game with OOP, levels, score tracking, and power-ups. | Python, Pygame |
-| 📈 **Fantasy Cricket ML Model** *(WIP)* | Predicts fantasy scores using real-time cricket data. | Python, Pandas, scikit-learn |
+
 
 ---
 
