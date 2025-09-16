@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Hitesh — a Computer Science student at **Bahra University (Batch 2026)**, passionate about **backend development**, **problem-solving**, and building real-world applications.
 
-🔧 Currently exploring: AI-powered apps, Java backends, and game development.<br>
+🔧 Currently exploring: AI-powered apps, Java backends, and game development .<br>
 
 ---
 
