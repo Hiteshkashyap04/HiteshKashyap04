@@ -99,12 +99,6 @@ Currently focused on: Java and Node.js backends, REST API design, and AI-integra
 
 ---
 
-## GitHub Stats
-
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiteshkashyap04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshkashyap04&theme=dark&hide_border=false&layout=compact)
-
----
 
 ## Education
 
